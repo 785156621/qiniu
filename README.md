@@ -22,3 +22,7 @@ notify.php         //回调地址
 shipin.mp4         //视频文件
 shuiyin.png        //水印图片
 ```
+
+![](http://ww1.sinaimg.cn/large/007aUiuugy1g52n3e8c6sj317y0myac5.jpg)
+
+![](http://ww1.sinaimg.cn/large/007aUiuugy1g52n4b43juj317z0gmwfq.jpg)
