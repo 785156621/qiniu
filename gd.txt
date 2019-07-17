@@ -1,0 +1,43 @@
+
+当前打印时间20190716 16:37:47打印内容：Array
+(
+    [upload_ret] => eyJoYXNoIjoiRnJOWHNYTV9uRVdMM2o0QmF3QVYwSnJvVGZtZSIsImtleSI6IjIwMTkwNzE2MTYzMzMyNjM2NjQzOSIsInBlcnNpc3RlbnRJZCI6InowLjVkMmQ4Y2RiMzhiOWYzMWVhNjgyYTFlYSJ9
+)
+
+当前打印时间20190716 16:44:03打印内容：Array
+(
+    [upload_ret] => eyJoYXNoIjoiRnJOWHNYTV9uRVdMM2o0QmF3QVYwSnJvVGZtZSIsImtleSI6IjIwMTkwNzE2MTYzMzMyNjM2NjQzOSIsInBlcnNpc3RlbnRJZCI6InowLjVkMmQ4ZTUzMzhiOWYzMWVhNjg1M2EyYSJ9
+)
+
+当前打印时间20190716 16:46:48打印内容：Array
+(
+    [hash] => FrNXsXM_nEWL3j4BawAV0JroTfme
+    [key] => 201907161633326366439
+    [persistentId] => z0.5d2d8ef838b9f31ea6866186
+)
+
+当前打印时间20190716 18:13:52打印内容：{"id":"z0.5d2da35e38b9f31ea6a9c105","pipeline":"1381947567.test-pipeline","code":0,"desc":"The fop was completed successfully","reqid":"uxAAAMpoLw6h27EV","inputBucket":"test","inputKey":"FmfwxKgYnQHfSYTIABdiP95VQZtP","items":[{"cmd":"avthumb/mp4/wmImage/aHR0cDovL3B1cHVucW5pZS5ia3QuY2xvdWRkbi5jb20vc2h1aXlpbi5wbmc=/wmText/5paH5a2X5rC05Y2w/wmFontColor/cmVk/wmFontSize/30/wmGravityText/North|saveas/dGVzdDpuZXdfMjAxOTA3MTYxODEzNDkzOTQ=","code":0,"desc":"The fop was completed successfully","hash":"FgGIGDz4sf1jFuHf1Alog5j00Q9h","key":"new_20190716181349394","returnOld":0}]}
+当前打印时间20190717 09:56:21打印内容：Array
+(
+    [id] => z0.5d2e804038b9f31ea686bd22
+    [pipeline] => 1381947567.test-pipeline
+    [code] => 0
+    [desc] => The fop was completed successfully
+    [reqid] => 5nIAAMW1B90OD7IV
+    [inputBucket] => test
+    [inputKey] => FmfwxKgYnQHfSYTIABdiP95VQZtP
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [cmd] => avthumb/mp4/wmImage/aHR0cDovL3B1cHVucW5pZS5ia3QuY2xvdWRkbi5jb20vc2h1aXlpbi5wbmc=/wmText/5paH5a2X5rC05Y2w/wmFontColor/cmVk/wmFontSize/30/wmGravityText/North|saveas/dGVzdDpuZXdfMjAxOTA3MTcwOTU2MTU3MDM=
+                    [code] => 0
+                    [desc] => The fop was completed successfully
+                    [hash] => FgGIGDz4sf1jFuHf1Alog5j00Q9h
+                    [key] => new_20190717095615703
+                    [returnOld] => 0
+                )
+
+        )
+
+)
