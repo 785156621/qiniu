@@ -26,3 +26,7 @@ shuiyin.png        //水印图片
 ![](http://ww1.sinaimg.cn/large/007aUiuugy1g52n3e8c6sj317y0myac5.jpg)
 
 ![](http://ww1.sinaimg.cn/large/007aUiuugy1g52n4b43juj317z0gmwfq.jpg)
+
+### 对已经存在的七牛云视频添加水印
+
+视频教程：http://odum9helk.qnssl.com/wjw/spjc/avthumb/pfop.mov.mp4
