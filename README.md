@@ -30,3 +30,4 @@ shuiyin.png        //水印图片
 ### 对已经存在的七牛云视频添加水印
 
 视频教程：http://odum9helk.qnssl.com/wjw/spjc/avthumb/pfop.mov.mp4
+demo:https://github.com/qiniu/php-sdk/blob/master/examples/pfop_watermark.php?ref=support.qiniu.com&tdsourcetag=s_pcqq_aiomsg
