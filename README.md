@@ -4,6 +4,8 @@
 
 七牛云github地址：https://github.com/qiniu/php-sdk
 
+php代码示例：https://github.com/qiniu/php-sdk/blob/master/examples/upload_and_pfop.php?ref=support.qiniu.com&tdsourcetag=s_pcqq_aiomsg
+
 ### 通过composer安装七牛云phpsdk 
 
 `composer require qiniu/php-sdk`
